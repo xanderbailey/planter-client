@@ -19,6 +19,6 @@ setuptools.setup(
     entry_points='''
         [console_scripts]
         planter=planter_client:cli
-    '''
+    ''',
     python_requires='>=3.6',
 )
