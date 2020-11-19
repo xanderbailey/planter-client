@@ -1,4 +1,4 @@
-import planter
+import api
 from sense_hat import SenseHat
 from pathlib import Path
 import json
